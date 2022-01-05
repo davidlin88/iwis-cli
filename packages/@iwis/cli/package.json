@@ -1,6 +1,6 @@
 {
   "name": "@iwis/cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Learning-oriented vue-cli-style project",
   "main": "index.js",
   "scripts": {
@@ -16,11 +16,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@iwis/cli-plugin-babel": "^1.0.1",
-    "@iwis/cli-plugin-linter": "^1.0.1",
-    "@iwis/cli-plugin-router": "^1.0.1",
-    "@iwis/cli-plugin-vuex": "^1.0.1",
-    "@iwis/cli-service": "^1.0.2",
+    "@iwis/cli-plugin-babel": "^1.0.4",
+    "@iwis/cli-plugin-linter": "^1.0.4",
+    "@iwis/cli-plugin-router": "^1.0.4",
+    "@iwis/cli-plugin-vuex": "^1.0.4",
+    "@iwis/cli-service": "^1.0.4",
     "chalk": "^4.1.2",
     "commander": "^8.3.0",
     "deepmerge": "^4.2.2",

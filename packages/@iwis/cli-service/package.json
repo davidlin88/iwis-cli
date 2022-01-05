@@ -1,6 +1,6 @@
 {
   "name": "@iwis/cli-service",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Local service for iwis-cli projects",
   "bin": {
     "iwis-cli-service": "./bin/iwis-cli-service.js"

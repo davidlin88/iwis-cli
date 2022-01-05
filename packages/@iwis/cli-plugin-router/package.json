@@ -1,6 +1,6 @@
 {
   "name": "@iwis/cli-plugin-router",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Router plugin for iwsi-cli.",
   "main": "index.js",
   "scripts": {
