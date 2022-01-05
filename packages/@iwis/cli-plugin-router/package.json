@@ -1,0 +1,16 @@
+{
+  "name": "@iwis/cli-plugin-router",
+  "version": "1.0.3",
+  "description": "Router plugin for iwsi-cli.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "1ef9dc3b973522a828c55b1eebf74a117e5e7bfa"
+}

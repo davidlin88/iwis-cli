@@ -1,0 +1,41 @@
+{
+  "name": "@iwis/cli",
+  "version": "1.0.3",
+  "description": "Learning-oriented vue-cli-style project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "iwis": "bin/cli.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iwis/cli-plugin-babel": "^1.0.1",
+    "@iwis/cli-plugin-linter": "^1.0.1",
+    "@iwis/cli-plugin-router": "^1.0.1",
+    "@iwis/cli-plugin-vuex": "^1.0.1",
+    "@iwis/cli-service": "^1.0.2",
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "deepmerge": "^4.2.2",
+    "ejs": "^3.1.6",
+    "fs-extra": "^10.0.0",
+    "globby": "^11.0.4",
+    "inquirer": "^8.2.0",
+    "isbinaryfile": "^4.0.8",
+    "javascript-stringify": "^2.1.0",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21",
+    "lodash.clonedeep": "^4.5.0",
+    "node-fetch": "^2.6.1",
+    "strip-ansi": "^6.0.0",
+    "vue-codemod": "^0.0.5",
+    "yaml-front-matter": "^4.1.1"
+  }
+}
