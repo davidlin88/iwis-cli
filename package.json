@@ -1,6 +1,5 @@
 {
   "name": "iwis-cli",
-  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "private": true,
